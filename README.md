@@ -1,0 +1,2 @@
+# Temperature and Humidity Sensor
+This main.c is the source code for reading temperature and humidity data from the DHT22 ASAIR AM2302 sensor using the AVR XMEGA-A3BU. The temperature and humidity readings will be displayed on the LCD. Simply copy this code into a project in [Microchip Studio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio), build it, and upload it to the board using [FliP](https://www.microchip.com/en-us/development-tool/flip).
